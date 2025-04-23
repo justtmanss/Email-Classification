@@ -144,8 +144,3 @@ pytest tests/
 The API is deployed on Hugging Face Spaces and can be accessed at:
 https://huggingface.co/spaces/justtmansss/email-classification-api
 
-## License
-[Specify your license here]
-
-## Contact
-[Your contact information]
